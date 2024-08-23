@@ -1,6 +1,6 @@
 ## Seja bem vindo a este perfil 🤍
 
-Me chamo Emanuelle kovaliczyk Kawa
+Me chamo: Emanuelle kovaliczyk Kawa
 
 - Estou estudando na [Alura](https://www.alura.com.br);
 - Estou me sesenvolvendo na linguaguem JavaScript;
