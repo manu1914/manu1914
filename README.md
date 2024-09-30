@@ -3,7 +3,7 @@
 Me chamo: Emanuelle Kovaliczyk Kawa
 
 - Estou estudando na [Alura](https://www.alura.com.br);
-- Estou me sesenvolvendo na linguaguem JavaScript;
+- Estou me desenvolvendo na linguaguem JavaScript;
 - Utilizo este epaço para minha organização e para o compartilhamento dos meus projetos desenvolvidos.
 
 ### Você pode entrar em contato comigo pelo 📫
