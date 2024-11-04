@@ -12,4 +12,4 @@ emanuelle.kawa@escola.pr.gov.br
 
 @makovaliczyk
 
-![](https://media.tenor.com/WTqJ_jfoyGEAAAAM/flirty-marie.gif)
+![](hhttps://tenor.com/EUbJ.gif)
