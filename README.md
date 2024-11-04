@@ -12,4 +12,4 @@ emanuelle.kawa@escola.pr.gov.br
 
 @makovaliczyk
 
-![](hhttps://tenor.com/EUbJ.gif)
+![]?(https://tenor.com/EUbJ.gif)
